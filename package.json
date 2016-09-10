@@ -17,6 +17,8 @@
   "author": "Masha Diminsky",
   "license": "MIT",
   "dependencies": {
-    "twit": "^2.2.4"
+    "express": "^4.14.0",
+    "twit": "^2.2.4",
+    "twitter": "^1.4.0"
   }
 }
